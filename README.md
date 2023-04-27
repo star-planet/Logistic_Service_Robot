@@ -20,7 +20,7 @@ RaspberryPi 4, OpenCR 1.0
 
 ### 운영체제
 
-Ubuntu 18.04, ROS Melodic
+Ubuntu 18.04, ROS Melodic, Android
 
 ### 부품
 
