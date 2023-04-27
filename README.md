@@ -1,4 +1,4 @@
-# DMU Project [2-1]
+# MCA Project [2-1]
 
 ## PASI ROBOT(피킹 로봇)
 
