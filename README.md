@@ -1,6 +1,6 @@
-# MCA Project [2-1]
+# MCA TEAM Project [2-1]
 
-## PASI ROBOT(피킹 로봇)
+## PASI ROBOT
 
 ### 작품 동기
 
@@ -10,7 +10,7 @@
 
 물건을 담아 옮겨주는 로봇, 물건을 내려주는 선반
 
-### 프로그램
+### 사용 프로그램
 
 ROS, C++, Kotlin
 
@@ -18,19 +18,19 @@ ROS, C++, Kotlin
 
 RaspberryPi 4, OpenCR 1.0
 
-### 운영체제
+### 사용 운영체제
 
 Ubuntu 18.04, ROS Melodic, Android
 
 ### 부품
 
-LDS-01 (Lidar Sensor)
+LDS-01
 
-HC-SR04(Ultrasonic Sensor)
+HC-SR04
 
-MX-106 (Dynamixel Motor)
+MX-106
 
-103h5210-0424(Step Motor)
+103h5210-0424
 
 ### Using ROS package
 
