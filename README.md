@@ -8,7 +8,7 @@
 - 프로그램
 
 ## 3. 사용언어
-- ROS (C/C++)
+- ROS (C++)
 
 ## 4. 제작
 - 각 센서들과 통신을 위해 Publisher와 Subscriber를 사용했습니다.
